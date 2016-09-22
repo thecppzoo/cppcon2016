@@ -1,5 +1,8 @@
 #pragma once
 
+// Copyright Crabel Capital Management 2016
+// All rights reserved
+
 #include "mdp3.h"
 
 namespace mdp3 {

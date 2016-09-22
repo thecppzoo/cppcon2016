@@ -1,5 +1,9 @@
 #pragma once
 
+// Copyright Crabel Capital Management 2016
+// All rights reserved
+
+
 namespace mdp3 {
 
 template<typename...> struct voider { using type = void; };

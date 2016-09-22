@@ -1,5 +1,8 @@
 #pragma once
 
+// Copyright Crabel Capital Management 2016
+// All rights reserved
+
 #include <stdint.h>
 
 #define EXACT_LAYOUT  __attribute__((aligned(1), packed))

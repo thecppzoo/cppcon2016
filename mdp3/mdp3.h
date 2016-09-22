@@ -2,6 +2,9 @@
 
 // generated with code_generator/templates2Cpp.plx
 
+// Copyright Crabel Capital Management 2016
+// All rights reserved
+
 #include "./mdp3_types.h"
 
 namespace mdp3 {

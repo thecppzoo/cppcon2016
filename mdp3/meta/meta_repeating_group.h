@@ -1,5 +1,8 @@
 #pragma once
 
+// Copyright Crabel Capital Management 2016
+// All rights reserved
+
 #include "./repeating_group.h"
 #include "./void_t.h"
 
